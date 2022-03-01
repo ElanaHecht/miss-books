@@ -1,0 +1,14 @@
+.home-img {
+   max-height: 60hv;
+}
+
+.home-page h2 {
+   color: var(--main);
+   font-size: 6em;
+   position: absolute;
+   z-index: 5;
+text-align: center;
+top: 50%;
+left: 30%;
+margin-top: 50px;
+}

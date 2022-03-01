@@ -1,0 +1,10 @@
+.main-header {
+   height: 20vh;
+   padding: 50px;
+    align-items:flex-end;
+}
+
+.logo {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 5em;
+}

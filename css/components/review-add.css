@@ -1,0 +1,49 @@
+.review-container {
+   height: 400px;
+   border: 0.5px solid gray;
+   border-radius: 30px;
+   margin: 50px;
+}
+
+.form-container {
+   height: 380px;
+   width: 400px;
+   margin: 10px;
+   background-color: rgb(209, 207, 207);
+   padding: 20px;
+   border-radius: 20px;
+   box-shadow: var(--border-shadow-light);
+}
+
+.form-container label {
+   display: flex;
+   flex-direction: column;
+   margin: 10px;
+   text-align: left;
+}
+
+.form-container button {
+   cursor: pointer;
+   border: none;
+   padding: 10px;
+   background-color: var(--main);
+   border-radius: 10px;
+   transition: 0.4s;
+   box-shadow: var(--border-shadow-light);
+}
+
+.review-list {
+   padding: 20px;
+}
+
+.review-list li{
+   list-style-type: none;
+   background-color: rgb(209, 207, 207);
+   margin-right: 20px;
+   padding: 10px;
+   border-radius: 10px;
+   font-weight: 600;
+}
+.review-list li span{
+   font-weight: 300;
+}

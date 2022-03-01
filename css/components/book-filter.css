@@ -1,0 +1,13 @@
+.book-filter {
+   margin-top: 0px;
+}
+
+.filters {
+justify-content: flex-end;
+margin-bottom: 100px;
+}
+
+.filter-price {
+   gap: 10px;
+   margin-left: 30px;
+}

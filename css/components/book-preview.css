@@ -1,0 +1,31 @@
+
+book-preview {
+   cursor: pointer;
+}
+
+.book-title {
+text-transform: capitalize;
+font-size: 1.5em;
+}
+
+.book-price {
+   color: var(--lightpurple);
+   font-size: 1.2em;
+   margin-top: 20px;
+   margin-bottom: 0;
+}
+
+.on-sale {
+   position: absolute;
+   margin: -10px;
+   background-color: rgb(230, 201, 42);
+   box-shadow: var(--border-shadow-heavy);
+   transform: rotate(-45deg);
+   color: var(--main);
+   font-size: 1.7em;
+   font-weight: 600;
+   height: 100px;
+   width: 100px;
+   border-radius: 50px;
+   padding: 28px 15px;
+}
